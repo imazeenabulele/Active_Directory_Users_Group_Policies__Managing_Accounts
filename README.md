@@ -20,13 +20,14 @@ This section will show the setting up of non-administrative users   .<br />
 - Windows 10 (21H2)
 
 <h2>High-Level Deployment and Configuration Steps</h2>
-- Setup up Remote Desktop for non-admin users on Client-1
+- Setup up Remote Desktop for non-admin users on Client-1<br />
 - Create a bunch of additonal users and attempt to log into clients-1 with on of the users
 
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-
+Firstly, we'll log into Client-1 as jane_admin since clinet-1 has not been joined to the domain where jane has adminstrative priviledges.<br />
+Once logged in, right click the start menu > Click "system" > "Remote Desktop" > "select users that can remotely can access this PC" > "Add" > type Domain Users > Click Ok. By doing this, all domain users by default would be allowed to log into the VM.  This also means you can log into Client-1 as non-administrative user
 </p>
 
 <p>
