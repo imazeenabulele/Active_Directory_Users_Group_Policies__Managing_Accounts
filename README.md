@@ -5,7 +5,7 @@
 </p>
 
 <h1>Creating Users, Group Policies and Managing Accounts with Active Directory in Azure</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This section will show the setting up of non-administrative users   .<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -20,10 +20,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Windows 10 (21H2)
 
 <h2>High-Level Deployment and Configuration Steps</h2>
-
-- 
-- 
-- 
+- Setup up Remote Desktop for non-admin users on Client-1
+- Create a bunch of additonal users and attempt to log into clients-1 with on of the users
 
 <h2>Deployment and Configuration Steps</h2>
 
