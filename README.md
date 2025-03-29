@@ -65,7 +65,7 @@ Now the users have been created, we'll pick any user account and attempt to log 
 
 
 <p>
-Before we log in, let's checkout the properties of this user account. It can bee seen that "jaca.nun" is a member of DOmain users to log into Client-1 using remote desktop
+Before we log in, let's checkout the properties of this user account. It can be seen that "jaca.nun" is a member of Domain users to log into Client-1 using remote desktop
 </p>
 
 <p>
@@ -83,21 +83,21 @@ Open Remote Desktop Connection and type in the details as seen below
 <br /><br />
 
 <p>
-
+Successfully logged into CLient-1 using the the non-administrative user below
 </p>
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TBjWq13.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br /><br />
 
 
 <p>
-
+We can also see when Windows Powershell is opened as a non-admin, the user has a local profile
 </p>
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9QsZ3in.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br /><br />
 
