@@ -65,20 +65,20 @@ Now the users have been created, we'll pick any user account and attempt to log 
 
 
 <p>
-Before we log in, let's checkout the properties of this user account
+Before we log in, let's checkout the properties of this user account. It can bee seen that "jaca.nun" is a member of DOmain users to log into Client-1 using remote desktop
 </p>
 
 <p>
-<img src="https://i.imgur.com/NFCwxnh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Vlf6o2D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br /><br />
 
 <p>
-Before we log in, let's checkout the properties of this user account
+Open Remote Desktop Connection and type in the details as seen below
 </p>
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NFCwxnh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br /><br />
 
