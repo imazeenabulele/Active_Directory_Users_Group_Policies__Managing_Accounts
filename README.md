@@ -55,7 +55,7 @@ Once the run buttin is clicked, the user accounts will be created.
 
 
 <p>
-
+Now the users have been created, we'll pick any user account and attempt to log into it. It should work because these users are members of the domain. Let's go with "jaca.nun" 
 </p>
 
 <p>
@@ -65,7 +65,7 @@ Once the run buttin is clicked, the user accounts will be created.
 
 
 <p>
-
+Before we log in, let's checkout the details of this user account
 </p>
 
 <p>
