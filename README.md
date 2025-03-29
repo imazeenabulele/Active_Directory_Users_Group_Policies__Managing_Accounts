@@ -36,7 +36,7 @@ Once logged in, right click the start menu > Click "system" > "Remote Desktop" >
 <br /><br />
 
 <p>
-NOw, we'll log into DC-1 the users would be created. Open Powershell ISE as an administrator, create a new file and input a script that eould create random users.
+Now, we'll log into DC-1 the users would be created. Open Powershell ISE as an administrator, create a new file and input a script that would create users. The script as seen below will create 1000 users with random names
 </p>
 
 <p>
@@ -45,7 +45,7 @@ NOw, we'll log into DC-1 the users would be created. Open Powershell ISE as an a
 <br /><br />
 
 <p>
-
+Once the run buttin is clicked, the user accounts will be created. 
 </p>
 
 <p>
