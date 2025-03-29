@@ -26,17 +26,50 @@ This section will show the setting up of non-administrative users   .<br />
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-Firstly, we'll log into Client-1 as jane_admin since clinet-1 has not been joined to the domain where jane has adminstrative priviledges.<br />
+Firstly, we'll log into Client-1 as jane_admin since clinet-1 has not been joined to the domain where jane has adminstrative priviledges.<br /><br />
 Once logged in, right click the start menu > Click "system" > "Remote Desktop" > "select users that can remotely can access this PC" > "Add" > type Domain Users > Click Ok. By doing this, all domain users by default would be allowed to log into the VM.  This also means you can log into Client-1 as non-administrative user
 </p>
 
 <p>
 <img src="https://i.imgur.com/4VVOfHM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<br />
-
-<br />
+<br /><br />
 
 <p>
 
 </p>
+
+<p>
+<img src="https://i.imgur.com/CnqVfHk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br /><br />
+
+<p>
+
+</p>
+
+<p>
+<img src="https://i.imgur.com/5BBrCqY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br /><br />
+
+
+<p>
+
+</p>
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br /><br />
+
+
+<p>
+
+</p>
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br /><br />
+
