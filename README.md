@@ -32,8 +32,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 
 <p>
-<img src="https://imgur.com/a/GnG2qRi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Csg1tWF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+
 <br />
 
 <p>
