@@ -21,7 +21,7 @@ This section will show the setting up of non-administrative users   .<br />
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 - Setup up Remote Desktop for non-admin users on Client-1<br />
-- Create a bunch of additonal users and attempt to log into clients-1 with on of the users
+- Create a bunch of additonal users and attempt to log into Client-1 with on of the users
 
 <h2>Deployment and Configuration Steps</h2>
 
