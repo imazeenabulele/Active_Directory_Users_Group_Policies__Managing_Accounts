@@ -36,7 +36,7 @@ Once logged in, right click the start menu > Click "system" > "Remote Desktop" >
 <br /><br />
 
 <p>
-
+NOw, we'll log into DC-1 the users would be created. Open Powershell ISE as an administrator, create a new file and input a script that eould create random users.
 </p>
 
 <p>
@@ -59,7 +59,7 @@ Once logged in, right click the start menu > Click "system" > "Remote Desktop" >
 </p>
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ogJ8zNW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br /><br />
 
