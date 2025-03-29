@@ -83,7 +83,7 @@ Open Remote Desktop Connection and type in the details as seen below
 <br /><br />
 
 <p>
-Successfully logged into CLient-1 using the the non-administrative user below
+Successfully logged into Client-1 using the the non-administrative user below
 </p>
 
 <p>
