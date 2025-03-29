@@ -65,7 +65,16 @@ Now the users have been created, we'll pick any user account and attempt to log 
 
 
 <p>
-Before we log in, let's checkout the details of this user account
+Before we log in, let's checkout the properties of this user account
+</p>
+
+<p>
+<img src="https://i.imgur.com/NFCwxnh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br /><br />
+
+<p>
+Before we log in, let's checkout the properties of this user account
 </p>
 
 <p>
@@ -73,3 +82,30 @@ Before we log in, let's checkout the details of this user account
 </p>
 <br /><br />
 
+<p>
+
+</p>
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br /><br />
+
+
+<p>
+
+</p>
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br /><br />
+
+<p>
+
+</p>
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br /><br />
